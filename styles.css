@@ -62,7 +62,7 @@ body {
 }
 
 .main {
-    background-image: url(../Lesson\ 2/images/background.png);
+    background-image: url(images/background.png);
     background-position: center;
     background-size: cover;
     padding: 104px 0 154px 0;
@@ -137,7 +137,7 @@ body {
     vertical-align: bottom;
 }
 
-.car-items-tittle {
+.car-item-tittle {
     font-weight: bold;
     font-size: 24px;
     line-height: 150%;
@@ -182,7 +182,7 @@ body {
 
 .price .container {
     position: relative;
-    padding-bottom: 12px;
+    padding-bottom: 121px;
 }
 
 .price .sub-tittle {
