@@ -104,7 +104,7 @@ body {
     transition: background-color .5s;
 }
 
-.botton:hover {
+.button:hover {
     cursor: pointer;
     background: #575757;
 }
@@ -217,7 +217,7 @@ body {
     color: #5d5d5f;
 }
 
-.price .botton {
+.price .button {
     width: 100%;
 }
 
